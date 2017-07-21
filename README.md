@@ -1,8 +1,12 @@
 ## Treehouse
 
+![blogger svg](https://user-images.githubusercontent.com/30328516/28485461-9b94a75c-6e2e-11e7-9c94-13ef215ba40e.png)
+
 This repo is for my Ruby blog app built during teamtreehouse.com Ruby Development course.
 
-Checkout my Team Treehouse profile at https://teamtreehouse.com/andrewschrenk
+
+This is a basic blog type app with all of the CRUD operations.
+
 
 # README
 
