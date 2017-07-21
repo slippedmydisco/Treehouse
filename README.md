@@ -1,3 +1,7 @@
+## Treehouse
+
+This repo is for my Ruby blog app built during teamtreehouse.com Ruby Development course.
+
 # README
 
 This README would normally document whatever steps are necessary to get the
