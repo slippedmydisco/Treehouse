@@ -2,6 +2,8 @@
 
 This repo is for my Ruby blog app built during teamtreehouse.com Ruby Development course.
 
+Checkout my Team Treehouse profile at https://teamtreehouse.com/andrewschrenk
+
 # README
 
 This README would normally document whatever steps are necessary to get the
